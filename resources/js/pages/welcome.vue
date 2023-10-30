@@ -4,7 +4,7 @@
         <h2>{{ name }}</h2>
         <h2>{{ name }}</h2>
        <Link href="/details">Details</Link>
-       <div class="bg-red-600">
+       <div class="bg-red-600 text-blue-700">
         Hello World
        </div>
     </div>
