@@ -4,6 +4,7 @@ import { createPinia } from 'pinia'
 import PrimeVue from 'primevue/config';
 // import Button from "primevue/button";
 import 'primevue/resources/themes/lara-light-teal/theme.css'
+import 'flowbite';
 
 
 createInertiaApp({

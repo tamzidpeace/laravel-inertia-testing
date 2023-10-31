@@ -1,14 +1,10 @@
 <template>
     <div>
-        <nav>
-            <ul>
-                <li><Link href="/">Home</Link></li>
-                <li><Link href="about">About</Link></li>
-            </ul>
-        </nav>
+        <TheNavbar/>
+        <!-- <TheSidebar/> -->
+
 
         <div class="app-page">
-        <Notice />
 
         <div class="app-page__inner">
             <slot />
@@ -19,6 +15,8 @@
 
 <script setup lang="ts">
 import { Link } from '@inertiajs/vue3';
+import TheNavbar from './TheNavbar.vue';
+import TheSidebar from './TheSidebar.vue';
 </script>
 
 <style scoped>
