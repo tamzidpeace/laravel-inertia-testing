@@ -1,22 +1,17 @@
 <template>
     <div>
-        <TheNavbar/>
-        <!-- <TheSidebar/> -->
+        <TheNavbar />
+        <TheSidebar />
 
-
-        <div class="app-page">
-
-        <div class="app-page__inner">
+        <div class="p-4 sm:ml-64 pt-[72px]">
             <slot />
         </div>
-    </div>
     </div>
 </template>
 
 <script setup lang="ts">
-import { Link } from '@inertiajs/vue3';
-import TheNavbar from './TheNavbar.vue';
-import TheSidebar from './TheSidebar.vue';
+import TheNavbar from "./TheNavbar.vue";
+import TheSidebar from "./TheSidebar.vue";
 </script>
 
 <style scoped>
