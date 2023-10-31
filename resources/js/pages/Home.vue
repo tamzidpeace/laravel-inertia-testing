@@ -2,13 +2,7 @@
     <div>Home Page</div>
 </template>
 
-<script>
-import AppLayout from "@/layouts/BaseLayout.vue";
 
-export default {
-    layout: AppLayout,
-};
-</script>
 
 <script setup>
 import { ref } from "vue";
