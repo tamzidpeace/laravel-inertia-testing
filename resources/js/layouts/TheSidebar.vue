@@ -6,27 +6,22 @@
     >
         <div class="h-full px-3 pb-4 overflow-y-auto bg-white">
             <ul class="space-y-2 font-medium">
-                <li>
-                    <Link
-                        href="/"
-                        class="flex items-center p-2 text-gray-900 rounded-lg hover:bg-gray-100 group"
-                        :class="{ 'bg-gray-100': $page.url === '/' }"
-                    >
-                        <HomeIcon class="h-6 w-6" />
 
-                        <span class="ml-3">Dashboard</span>
-                    </Link>
-                </li>
+                <SidebarSingleLink
+                    label="Dashboard"
+                    href="/"
+                    :active="$page.url === '/'"
+                >
+                    <Squares2X2Icon class="h-5 w-5" />
+                </SidebarSingleLink>
 
-                <li>
-                    <Link
-                        href="/about"
-                        class="flex items-center p-2 text-gray-900 rounded-lg hover:bg-gray-100 group"
-                    >
-                        <InformationCircleIcon class="h-6 w-6" />
-                        <span class="flex-1 ml-3 whitespace-nowrap">About</span>
-                    </Link>
-                </li>
+                <SidebarSingleLink
+                    label="About"
+                    href="/about"
+                    :active="$page.url === '/about'"
+                >
+                    <InformationCircleIcon class="h-5 w-5" />
+                </SidebarSingleLink>
 
                 <li>
                     <button
@@ -46,7 +41,8 @@
                                 d="M15 12a1 1 0 0 0 .962-.726l2-7A1 1 0 0 0 17 3H3.77L3.175.745A1 1 0 0 0 2.208 0H1a1 1 0 0 0 0 2h.438l.6 2.255v.019l2 7 .746 2.986A3 3 0 1 0 9 17a2.966 2.966 0 0 0-.184-1h2.368c-.118.32-.18.659-.184 1a3 3 0 1 0 3-3H6.78l-.5-2H15Z"
                             />
                         </svg>
-                        <span class="flex-1 ml-3 text-left whitespace-nowrap"
+                        <span
+                            class="flex-1 ml-3 text-left whitespace-nowrap text-sm"
                             >E-commerce</span
                         >
                         <svg
@@ -97,10 +93,11 @@
 <script setup lang="ts">
 import { Link } from "@inertiajs/vue3";
 import {
-    BeakerIcon,
+    Squares2X2Icon,
     HomeIcon,
     InformationCircleIcon,
 } from "@heroicons/vue/24/solid";
+import SidebarSingleLink from "./partials/SidebarSingleLink.vue";
 </script>
 
 <style scoped></style>
