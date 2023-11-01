@@ -23,7 +23,7 @@ services:
     volumes:
     - ./public:/usr/src/app/public
     ports:
-      - 8000:80
+      - 80:80
     depends_on:
       - dms_app
     environment:
