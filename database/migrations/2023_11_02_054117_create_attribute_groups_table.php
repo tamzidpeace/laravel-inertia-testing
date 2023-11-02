@@ -11,15 +11,14 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::create('users', function (Blueprint $table) {
+        Schema::create('attribute_groups', function (Blueprint $table) {
             $table->id();
-            // $table->foreignId('department_id')->constrained('departments');
+            $table->foreignId('test_id')->constrained('tests')->onDelete('cascade');
+            $table->foreignId('created_by')->constrained('users')->onDelete('cascade');
+            $table->foreignId('sample_id')->constrained('test_samples')->onDelete('cascade');
             $table->string('name', 100);
-            $table->string('email', 100)->unique();
-            $table->timestamp('email_verified_at')->nullable();
-            $table->string('password', 255);
+            $table->unsignedTinyInteger('serial_number')->nullable();
             $table->boolean('is_active')->default(true);
-            $table->rememberToken();
             $table->timestamps();
             $table->softDeletes();
         });
@@ -30,6 +29,6 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::dropIfExists('users');
+        Schema::dropIfExists('attribute_groups');
     }
 };
