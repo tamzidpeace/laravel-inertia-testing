@@ -1,18 +1,15 @@
 <template>
-    <div class="bg-[#eff3f7]">
+    <div class="">
         <TheNavbar />
         <TheSidebar />
 
-        <div class="p-4 sm:ml-64 pt-[72px]">
-            <div class="layout-main-container">
-                <div class="layout-main">
-                    <slot />
-                </div>
-                <AppFooter />
+        <div class="px-4 sm:ml-64 pt-[72px] layout-main-container">
+            <div class="layout-main">
+                <slot />
             </div>
+            <TheFooter />
         </div>
 
-        <TheFooter />
     </div>
 </template>
 
@@ -37,9 +34,8 @@ li {
 .layout-main-container {
     display: flex;
     flex-direction: column;
-    min-height: 80vh;
+    min-height: 100vh;
     justify-content: space-between;
-    /* padding: 7rem 2rem 2rem 4rem; */
     transition: margin-left 0.2s;
 }
 
