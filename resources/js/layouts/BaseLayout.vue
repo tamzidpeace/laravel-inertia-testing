@@ -10,8 +10,8 @@
 </template>
 
 <script setup lang="ts">
-import TheNavbar from "./TheNavbar.vue";
-import TheSidebar from "./TheSidebar.vue";
+import TheNavbar from "./navbar/TheNavbar.vue";
+import TheSidebar from "./sidebar/TheSidebar.vue";
 </script>
 
 <style scoped>

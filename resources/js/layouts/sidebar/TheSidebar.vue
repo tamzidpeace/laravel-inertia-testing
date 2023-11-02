@@ -83,7 +83,6 @@ import {
     ChevronDownIcon,
 } from "@heroicons/vue/24/solid";
 import SidebarSingleLink from "./partials/SidebarSingleLevelMenu.vue";
-import PanelMenu from "primevue/panelmenu";
 
 const rotate = ref(false);
 </script>
