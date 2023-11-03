@@ -4,39 +4,8 @@
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dicta eveniet libero veritatis est, architecto deleniti doloribus reiciendis ipsa, perferendis repellat possimus saepe delectus! Est iste et veritatis eum tempora?
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dicta eveniet libero veritatis est, architecto deleniti doloribus reiciendis ipsa, perferendis repellat possimus saepe delectus! Est iste et veritatis eum tempora?
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dicta eveniet libero veritatis est, architecto deleniti doloribus reiciendis ipsa, perferendis repellat possimus saepe delectus! Est iste et veritatis eum tempora?
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dicta eveniet libero veritatis est, architecto deleniti doloribus reiciendis ipsa, perferendis repellat possimus saepe delectus! Est iste et veritatis eum tempora?
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dicta eveniet libero veritatis est, architecto deleniti doloribus reiciendis ipsa, perferendis repellat possimus saepe delectus! Est iste et veritatis eum tempora?
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dicta eveniet libero veritatis est, architecto deleniti doloribus reiciendis ipsa, perferendis repellat possimus saepe delectus! Est iste et veritatis eum tempora?
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dicta eveniet libero veritatis est, architecto deleniti doloribus reiciendis ipsa, perferendis repellat possimus saepe delectus! Est iste et veritatis eum tempora?
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dicta eveniet libero veritatis est, architecto deleniti doloribus reiciendis ipsa, perferendis repellat possimus saepe delectus! Est iste et veritatis eum tempora?
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dicta eveniet libero veritatis est, architecto deleniti doloribus reiciendis ipsa, perferendis repellat possimus saepe delectus! Est iste et veritatis eum tempora?
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dicta eveniet libero veritatis est, architecto deleniti doloribus reiciendis ipsa, perferendis repellat possimus saepe delectus! Est iste et veritatis eum tempora?
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dicta eveniet libero veritatis est, architecto deleniti doloribus reiciendis ipsa, perferendis repellat possimus saepe delectus! Est iste et veritatis eum tempora?
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dicta eveniet libero veritatis est, architecto deleniti doloribus reiciendis ipsa, perferendis repellat possimus saepe delectus! Est iste et veritatis eum tempora?
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dicta eveniet libero veritatis est, architecto deleniti doloribus reiciendis ipsa, perferendis repellat possimus saepe delectus! Est iste et veritatis eum tempora?
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dicta eveniet libero veritatis est, architecto deleniti doloribus reiciendis ipsa, perferendis repellat possimus saepe delectus! Est iste et veritatis eum tempora?
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dicta eveniet libero veritatis est, architecto deleniti doloribus reiciendis ipsa, perferendis repellat possimus saepe delectus! Est iste et veritatis eum tempora?
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dicta eveniet libero veritatis est, architecto deleniti doloribus reiciendis ipsa, perferendis repellat possimus saepe delectus! Est iste et veritatis eum tempora?
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dicta eveniet libero veritatis est, architecto deleniti doloribus reiciendis ipsa, perferendis repellat possimus saepe delectus! Est iste et veritatis eum tempora?
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dicta eveniet libero veritatis est, architecto deleniti doloribus reiciendis ipsa, perferendis repellat possimus saepe delectus! Est iste et veritatis eum tempora?
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dicta eveniet libero veritatis est, architecto deleniti doloribus reiciendis ipsa, perferendis repellat possimus saepe delectus! Est iste et veritatis eum tempora?
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dicta eveniet libero veritatis est, architecto deleniti doloribus reiciendis ipsa, perferendis repellat possimus saepe delectus! Est iste et veritatis eum tempora?
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dicta eveniet libero veritatis est, architecto deleniti doloribus reiciendis ipsa, perferendis repellat possimus saepe delectus! Est iste et veritatis eum tempora?
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dicta eveniet libero veritatis est, architecto deleniti doloribus reiciendis ipsa, perferendis repellat possimus saepe delectus! Est iste et veritatis eum tempora?
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dicta eveniet libero veritatis est, architecto deleniti doloribus reiciendis ipsa, perferendis repellat possimus saepe delectus! Est iste et veritatis eum tempora?
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dicta eveniet libero veritatis est, architecto deleniti doloribus reiciendis ipsa, perferendis repellat possimus saepe delectus! Est iste et veritatis eum tempora?
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dicta eveniet libero veritatis est, architecto deleniti doloribus reiciendis ipsa, perferendis repellat possimus saepe delectus! Est iste et veritatis eum tempora?
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dicta eveniet libero veritatis est, architecto deleniti doloribus reiciendis ipsa, perferendis repellat possimus saepe delectus! Est iste et veritatis eum tempora?
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dicta eveniet libero veritatis est, architecto deleniti doloribus reiciendis ipsa, perferendis repellat possimus saepe delectus! Est iste et veritatis eum tempora?
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dicta eveniet libero veritatis est, architecto deleniti doloribus reiciendis ipsa, perferendis repellat possimus saepe delectus! Est iste et veritatis eum tempora?
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dicta eveniet libero veritatis est, architecto deleniti doloribus reiciendis ipsa, perferendis repellat possimus saepe delectus! Est iste et veritatis eum tempora?
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dicta eveniet libero veritatis est, architecto deleniti doloribus reiciendis ipsa, perferendis repellat possimus saepe delectus! Est iste et veritatis eum tempora?
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dicta eveniet libero veritatis est, architecto deleniti doloribus reiciendis ipsa, perferendis repellat possimus saepe delectus! Est iste et veritatis eum tempora?
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dicta eveniet libero veritatis est, architecto deleniti doloribus reiciendis ipsa, perferendis repellat possimus saepe delectus! Est iste et veritatis eum tempora?
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dicta eveniet libero veritatis est, architecto deleniti doloribus reiciendis ipsa, perferendis repellat possimus saepe delectus! Est iste et veritatis eum tempora?
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dicta eveniet libero veritatis est, architecto deleniti doloribus reiciendis ipsa, perferendis repellat possimus saepe delectus! Est iste et veritatis eum tempora?
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dicta eveniet libero veritatis est, architecto deleniti doloribus reiciendis ipsa, perferendis repellat possimus saepe delectus! Est iste et veritatis eum tempora?
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dicta eveniet libero veritatis est, architecto deleniti doloribus reiciendis ipsa, perferendis repellat possimus saepe delectus! Est iste et veritatis eum tempora?
+
+        <Link class="nav-link" :href="route('about')">About</Link>
     </div>
 </template>
 
@@ -44,6 +13,7 @@
 
 <script setup>
 import { ref } from "vue";
+import { Link } from '@inertiajs/vue3';
 const title = ref("Home");
 </script>
 

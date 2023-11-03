@@ -9,4 +9,4 @@ Route::get('/', function () {
 
 Route::get('/about', function () {
     return inertia('About');
-});
+})->name('about');
